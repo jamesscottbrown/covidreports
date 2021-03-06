@@ -9,10 +9,10 @@ The indexed files are obtained from:
 
 The files are:
 
-* `indexes/topics.csv` lists the agenda items extracted from the SAGE minutes (after removal of routine items such as the list of attendees, situation summary, summary of agreed actions, items for the next meeting).
+* [`indexes/topics.csv`](./indexes/topics.csv) lists the agenda items extracted from the SAGE minutes (after removal of routine items such as the list of attendees, situation summary, summary of agreed actions, items for the next meeting).
 **Note that these are missing for some meetings, as these minutes are PDFs containing only images rather than selectable text** (18-43, 47-48, 50-61, 63).
 
-* `indexes/files.json`: a list of files, including the name and date of the associated meeting
+* [`indexes/files.csv`](./indexes/files.csv): a list of files, including the name and date of the associated meeting
 
 
 The gov.uk page for many of the documents includes a warning message:
