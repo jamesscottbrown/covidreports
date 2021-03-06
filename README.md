@@ -1,6 +1,6 @@
 # COVID Report indexes
 
-This repository files contain files indexing reports influencing documents informing the UK Government's COVID-19 policy.
+This repository files contain files indexing reports informing the UK Government's COVID-19 policy.
 
 The indexed files are obtained from:
 
