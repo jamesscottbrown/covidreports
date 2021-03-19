@@ -2041,7 +2041,7 @@
         "Published": "2020-06-05",
         "Location": "SAGE/s0253-symptom-timing-analysis-kcl-zoe-270420-sage29.pdf",
         "Index Title": "COVID-19 symptom timing, 27 April 2020",
-        "Origin": "King’s College London (KCL) and ZOE",
+        "Origin": "King\u2019s College London (KCL) and ZOE",
         "Meeting": "SAGE 29",
         "Meeting Date": "2020-04-28"
     },
@@ -7313,5 +7313,82 @@
         "Origin": "NERVTAG Meeting",
         "Meeting": "NERVTAG Meeting 38",
         "Meeting Date": ""
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/966687/S0635_Dynamic_CO-CIN_report_to_SAGE_and_NERVTAG.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-16-july-2020",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 16 July 2020",
+        "Published": "2021-03-05",
+        "Location": "../pdfs/SAGE/S0635_Dynamic_CO-CIN_report_to_SAGE_and_NERVTAG.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 16 July 2020",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 47",
+        "Meeting Date": "2020-07-16"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/968945/Covid-19_SAGE_65_minutes_footnote.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-65-minutes-coronavirus-covid-19-response-4-november-2020",
+        "Title": "Sixty-fifth SAGE meeting on COVID-19 - 4 November 2020",
+        "Published": "2020-11-13",
+        "Location": "../pdfs/SAGE/Covid-19_SAGE_65_minutes_footnote.pdf",
+        "Index Title": "SAGE 65 minutes: Coronavirus (COVID-19) response, 4 November 2020",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 65",
+        "Meeting Date": "2020-11-04"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/966941/S0899_SPI-B_Behavioural_effects_of_reducing_duration_of_quarantine_for_contacts.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-what-are-the-potential-behavioural-effects-of-reducing-the-duration-of-quarantine-for-contacts-11-november-2020",
+        "Title": "SPI-B: What are the potential behavioural effects of reducing the duration of quarantine for contacts?, 11 November 2020",
+        "Published": "2021-03-05",
+        "Location": "../pdfs/SAGE/S0899_SPI-B_Behavioural_effects_of_reducing_duration_of_quarantine_for_contacts.pdf",
+        "Index Title": "SPI-B: What are the potential behavioural effects of reducing the duration of quarantine for contacts?, 11 November 2020",
+        "Origin": "SPI-B",
+        "Meeting": "SAGE 67",
+        "Meeting Date": "2020-11-12"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/968422/S0898_Sixty-eighth_SAGE_meeting_on_COVID-19.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-68-minutes-coronavirus-covid-19-response-16-november-2020",
+        "Title": "Sixty-eighth SAGE meeting on COVID-19 - 16 November 2020",
+        "Published": "2020-12-18",
+        "Location": "../pdfs/SAGE/S0898_Sixty-eighth_SAGE_meeting_on_COVID-19.pdf",
+        "Index Title": "SAGE 68 minutes: Coronavirus (COVID-19) response, 16 November 2020",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 68",
+        "Meeting Date": "2020-11-16"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/970342/S1013_SPI-M-O_6_week_worst_case.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-worst-case-projections-7-january-2021",
+        "Title": "SPI-M-O: Worst-case projections, 7 January 2021",
+        "Published": "2021-03-19",
+        "Location": "../pdfs/SAGE/S1013_SPI-M-O_6_week_worst_case.pdf",
+        "Index Title": "SPI-M-O: Worst-case projections, 7 January 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 75",
+        "Meeting Date": "2021-01-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/971091/S1139_SPI-M-O_Consensus_Statement.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-3-march-2021",
+        "Title": "SPI-M-O: Consensus statement on COVID-19, 3 March 2021",
+        "Published": "2021-03-19",
+        "Location": "../pdfs/SAGE/S1139_SPI-M-O_Consensus_Statement.pdf",
+        "Index Title": "SPI-M-O: Consensus statement on COVID-19, 3 March 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 83",
+        "Meeting Date": "2021-03-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/970807/S1140_SPI-M-O_MediumTermProjections.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-3-march-2021",
+        "Title": "SPI-M-O: Medium-term projections, 3 March 2021",
+        "Published": "2021-03-19",
+        "Location": "../pdfs/SAGE/S1140_SPI-M-O_MediumTermProjections.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 3 March 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 83",
+        "Meeting Date": "2021-03-11"
     }
 ]
