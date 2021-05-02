@@ -7808,5 +7808,137 @@
         "Origin": "EMG and DCMS",
         "Meeting": "SAGE 86",
         "Meeting Date": "2021-04-08"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982615/13_Jan_NERVTAG_note_on_variants_of_concern.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-brief-note-on-sars-cov-2-variants-13-january-2021",
+        "Title": "NERVTAG: Brief note on SARS-CoV-2 variants - 13 January 2021",
+        "Published": "2021-01-29",
+        "Location": "../pdfs/SAGE/13_Jan_NERVTAG_note_on_variants_of_concern.pdf",
+        "Index Title": "NERVTAG: Brief note on SARS-CoV-2 variants, 13 January 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 76",
+        "Meeting Date": "2021-01-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982619/21_Jan_NERVTAG_Variants_update_note.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-update-note-on-variants-of-concern-21-january-2021",
+        "Title": "NERVTAG: Update note on variants of concern - 21 January 2021",
+        "Published": "2021-02-12",
+        "Location": "../pdfs/SAGE/21_Jan_NERVTAG_Variants_update_note.pdf",
+        "Index Title": "NERVTAG: Update note on variants of concern, 21 January 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 77",
+        "Meeting Date": "2021-01-21"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982631/NERVTAG_Variant_Note_for_SAGE_78_B1.351.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-brief-note-on-sars-cov-2-b1351-27-january-2021",
+        "Title": "NERVTAG: Brief note on SARS-CoV-2 B.1.351 - 27 January 2021",
+        "Published": "2021-02-12",
+        "Location": "../pdfs/SAGE/NERVTAG_Variant_Note_for_SAGE_78_B1.351.pdf",
+        "Index Title": "NERVTAG: Brief note on SARS-CoV-2 B.1.351, 27 January 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 78",
+        "Meeting Date": "2021-01-28"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982625/NERVTAG_Variant_Note_for_SAGE_78_P.1.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-note-on-variant-p1-27-january-2021",
+        "Title": "NERVTAG: Note on variant P.1, 27 January 2021 ",
+        "Published": "2021-02-12",
+        "Location": "../pdfs/SAGE/NERVTAG_Variant_Note_for_SAGE_78_P.1.pdf",
+        "Index Title": "NERVTAG: Note on variant P.1, 27 January 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 78",
+        "Meeting Date": "2021-01-28"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982638/NERVTAG_update_note_on_B.1.1.7_severity.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-update-note-on-variant-b117-27-january-2021",
+        "Title": "NERVTAG: Update note on variant B.1.1.7, 27 January 2021",
+        "Published": "2021-02-12",
+        "Location": "../pdfs/SAGE/NERVTAG_update_note_on_B.1.1.7_severity.pdf",
+        "Index Title": "NERVTAG: Update note on variant B.1.1.7, 27 January 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 78",
+        "Meeting Date": "2021-01-28"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982640/Feb_NERVTAG_update_note_on_B.1.1.7_severity.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-update-note-on-b117-severity-11-february-2021",
+        "Title": "NERVTAG: Update note on B.1.1.7 severity - 11 February 2021",
+        "Published": "2021-02-12",
+        "Location": "../pdfs/SAGE/Feb_NERVTAG_update_note_on_B.1.1.7_severity.pdf",
+        "Index Title": "NERVTAG: Update note on B.1.1.7 severity, 11 February 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 80",
+        "Meeting Date": "2021-02-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982480/S1154_Engagement_with_daily_testing_instead_of_quarantine.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/kcl-and-bristol-engagement-with-daily-testing-instead-of-quarantine-following-possible-exposure-to-sars-cov-2-11-march-2021",
+        "Title": "KCL and Bristol: Engagement with daily testing instead of quarantine following possible exposure to SARS-CoV-2, 11 March 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1154_Engagement_with_daily_testing_instead_of_quarantine.pdf",
+        "Index Title": "KCL and Bristol: Engagement with daily testing instead of quarantine following possible exposure to SARS-CoV-2, 11 March 2021",
+        "Origin": "KCL and Bristol",
+        "Meeting": "SAGE 83",
+        "Meeting Date": "2021-03-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982865/S1194_Transmission_in_hospitality_retail_leisure.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/emg-transmission-group-insights-on-transmission-of-covid-19-with-a-focus-on-the-hospitality-retail-and-leisure-sector-8-april-2021",
+        "Title": "EMG Transmission Group: Insights on transmission of COVID-19 with a focus on the hospitality, retail and leisure sector, 8 April 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1194_Transmission_in_hospitality_retail_leisure.pdf",
+        "Index Title": "EMG Transmission Group: Insights on transmission of COVID-19 with a focus on the hospitality, retail and leisure sector, 8 April 2021",
+        "Origin": "EMG Transmission Group",
+        "Meeting": "SAGE 86",
+        "Meeting Date": "2021-04-08"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982497/S1207_Hospitalised_vaccinated_patients_during_the_second_wave_SAGE_87.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/isaric4c-and-co-cin-hospitalised-patients-stratified-by-vaccination-tier-in-second-wave-22-april-2021",
+        "Title": "ISARIC4C and CO-CIN: Hospitalised patients stratified by vaccination tier in second wave, 22 April 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1207_Hospitalised_vaccinated_patients_during_the_second_wave_SAGE_87.pdf",
+        "Index Title": "ISARIC4C and CO-CIN: Hospitalised patients stratified by vaccination tier in second wave, 22 April 2021",
+        "Origin": "ISARIC4C and CO-CIN",
+        "Meeting": "SAGE 87",
+        "Meeting Date": "2021-04-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982499/S1208_CO-CIN_report_on_impact_of_vaccination_Apr_21.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/isaric4c-and-co-cin-hospitalised-vaccinated-patients-during-the-second-wave-update-april-2021-22-april-2021",
+        "Title": "ISARIC4C and CO-CIN: Hospitalised vaccinated patients during the second wave - update April 2021, 22 April 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1208_CO-CIN_report_on_impact_of_vaccination_Apr_21.pdf",
+        "Index Title": "ISARIC4C and CO-CIN: Hospitalised vaccinated patients during the second wave - update April 2021, 22 April 2021",
+        "Origin": "ISARIC4C and CO-CIN",
+        "Meeting": "SAGE 87",
+        "Meeting Date": "2021-04-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982503/S1211_NERVTAG_B.1.1.7_growth_rate.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-note-on-growth-rate-of-sars-cov-2-b117-22-april-2021",
+        "Title": "NERVTAG: note on growth rate of SARS-CoV-2 B.1.1.7, 22 April 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1211_NERVTAG_B.1.1.7_growth_rate.pdf",
+        "Index Title": "NERVTAG: note on growth rate of SARS-CoV-2 B.1.1.7, 22 April 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 87",
+        "Meeting Date": "2021-04-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/982600/S1217_CO-CIN_Dynamic_Report_2nd_Wave_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-recent-cases-22-april-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 22 April 2021",
+        "Published": "2021-04-30",
+        "Location": "../pdfs/SAGE/S1217_CO-CIN_Dynamic_Report_2nd_Wave_.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG (recent cases), 22 April 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 87",
+        "Meeting Date": "2021-04-22"
     }
 ]
