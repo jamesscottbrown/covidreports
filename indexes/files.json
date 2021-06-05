@@ -8006,5 +8006,203 @@
         "Origin": "SPI-M spatial variation subgroup",
         "Meeting": "SAGE 87",
         "Meeting Date": "2021-04-22"
+    },
+    {
+        "PDF URL": "https://gov.wales/sites/default/files/publications/2021-03/technical-advisory-group-long-covid-what-do-we-know-and-what-do-we-need-to-know.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/welsh-government-tag-long-covid-what-do-we-know-and-what-do-we-need-to-know-1-february-2021",
+        "Title": "Welsh Government TAG: 'Long-COVID' \u2013 what do we know and what do we need to know?  1 February 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/technical-advisory-group-long-covid-what-do-we-know-and-what-do-we-need-to-know.pdf",
+        "Index Title": "Welsh Government TAG: 'Long-COVID' \u2013 what do we know and what do we need to know?, 1 February 2021",
+        "Origin": "Welsh Government TAG",
+        "Meeting": "SAGE 79",
+        "Meeting Date": "2021-02-04"
+    },
+    {
+        "PDF URL": "https://phe.koha-ptfs.co.uk/cgi-bin/koha/opac-retrieve-file.pl?id=e985277d5b8cffe321f68c145174c013",
+        "Page URL": "https://www.gov.uk/government/publications/phe-factors-contributing-to-the-transmission-of-covid-19-within-food-manufacturing-and-processing-settings-a-rapid-review-5-march-2021",
+        "Title": "PHE: Factors contributing to the transmission of COVID-19 within food manufacturing and processing settings - a rapid review, 5 March 2021",
+        "Published": "2021-05-28",
+        "Location": "../pdfs/SAGE/opac-retrieve-file.pl?id=e985277d5b8cffe321f68c145174c013",
+        "Index Title": "PHE: Factors contributing to the transmission of COVID-19 within food manufacturing and processing settings - a rapid review, 5 March 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 83",
+        "Meeting Date": "2021-03-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984501/S1235_Eighty-eighth_SAGE_meeting.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-88-minutes-coronavirus-covid-19-response-5-may-2021",
+        "Title": "SAGE 88 minutes: Coronavirus (COVID-19) response, 5 May 2021",
+        "Published": "2021-05-10",
+        "Location": "../pdfs/SAGE/S1235_Eighty-eighth_SAGE_meeting.pdf",
+        "Index Title": "SAGE 88 minutes: Coronavirus (COVID-19) response, 5 May 2021",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984521/S1227_SPI-M-O_Summary_of_further_modelling_of_easing_restrictions_Roadmap_Step_3__2_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-summary-of-further-modelling-of-easing-restrictions-roadmap-step-3-5-may-2021",
+        "Title": "SPI-M-O: Summary of further modelling of easing restrictions \u2013 roadmap step 3, 5 May 2021",
+        "Published": "2021-05-10",
+        "Location": "../pdfs/SAGE/S1227_SPI-M-O_Summary_of_further_modelling_of_easing_restrictions_Roadmap_Step_3__2_.pdf",
+        "Index Title": "SPI-M-O: Summary of further modelling of easing restrictions \u2013 roadmap step 3, 5 May 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984688/S1228_Imperial_Evaluating_the_Roadmap_out_of_Lockdown_Step_3.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/imperial-college-london-evaluating-the-roadmap-out-of-lockdown-step-3-5-may-2021",
+        "Title": "Imperial College London: Evaluating the Roadmap out of Lockdown: Step 3, 5 May 2021",
+        "Published": "2021-05-10",
+        "Location": "../pdfs/SAGE/S1228_Imperial_Evaluating_the_Roadmap_out_of_Lockdown_Step_3.pdf",
+        "Index Title": "Imperial College London: Evaluating the roadmap out of lockdown \u2013 step 3, 5 May 2021",
+        "Origin": "Imperial College London",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984533/S1229_Warwick_Road_Map_Scenarios_and_Sensitivity_Steps_3_and_4.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/university-of-warwick-roadmap-scenarios-and-sensitivity-steps-3-and-4-5-may-2021",
+        "Title": "University of Warwick: Roadmap scenarios and sensitivity \u2013 steps 3 and 4, 5 May 2021",
+        "Published": "2021-05-10",
+        "Location": "../pdfs/SAGE/S1229_Warwick_Road_Map_Scenarios_and_Sensitivity_Steps_3_and_4.pdf",
+        "Index Title": "University of Warwick: Roadmap scenarios and sensitivity \u2013 steps 3 and 4, 5 May 2021",
+        "Origin": "University of Warwick",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/984546/S1230_LSHTM_Interim_roadmap_assessment_prior_to_steps_3_and_4.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/lshtm-interim-roadmap-assessment-prior-to-steps-3-and-4-5-may-2021",
+        "Title": "LSHTM: Interim roadmap assessment: prior to steps 3 and 4, 5 May 2021",
+        "Published": "2021-05-10",
+        "Location": "../pdfs/SAGE/S1230_LSHTM_Interim_roadmap_assessment_prior_to_steps_3_and_4.pdf",
+        "Index Title": "LSHTM: Interim roadmap assessment \u2013 prior to steps 3 and 4, 5 May 2021",
+        "Origin": "LSHTM",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/985652/S1231_CO-CIN_Dynamic_Report_2nd_Wave.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-5-may-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 5 May 2021",
+        "Published": "2021-05-14",
+        "Location": "../pdfs/SAGE/S1231_CO-CIN_Dynamic_Report_2nd_Wave.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 5 May 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988227/S1224_SPI-M-O_Consensus_Statement__1_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-5-may-2021",
+        "Title": "SPI-M-O: Consensus statement on COVID-19, 5 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1224_SPI-M-O_Consensus_Statement__1_.pdf",
+        "Index Title": "SPI-M-O: Consensus statement on COVID-19, 5 May 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988229/S1225_SPI-M-O_MediumTermProjections__1_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-5-may-2021",
+        "Title": "SPI-M-O: Medium-term projections, 5 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1225_SPI-M-O_MediumTermProjections__1_.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 5 May 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988226/S1226_Setting_up_medium-_and_long-term_vaccine_strain_selection_and_immunity_management_for_SARS-CoV-2__1_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/vaccines-update-group-setting-up-medium-and-long-term-vaccine-strain-selection-and-immunity-management-for-sars-cov-2-4-may-2021",
+        "Title": "Vaccines Update Group: Setting up medium-and long-term vaccine strain selection and immunity management for SARS-CoV-2, 4 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1226_Setting_up_medium-_and_long-term_vaccine_strain_selection_and_immunity_management_for_SARS-CoV-2__1_.pdf",
+        "Index Title": "Vaccines Update Group: Setting up medium-and long-term vaccine strain selection and immunity management for SARS-CoV-2, 4 May 2021",
+        "Origin": "Vaccines Update Group",
+        "Meeting": "SAGE 88",
+        "Meeting Date": "2021-05-05"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988403/S1236_Eighty-nineth_SAGE.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-89-minutes-coronavirus-covid-19-response-13-may-2021",
+        "Title": "SAGE 89 minutes: Coronavirus (COVID-19) response, 13 May 2021",
+        "Published": "2021-05-14",
+        "Location": "../pdfs/SAGE/S1236_Eighty-nineth_SAGE.pdf",
+        "Index Title": "SAGE 89 minutes: Coronavirus (COVID-19) response, 13 May 2021",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/986709/S1237_SPI-M-O_Consensus_Statement.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-12-may-2021",
+        "Title": "SPI-M-O: Consensus statement on COVID-19, 12 May 2021",
+        "Published": "2021-05-14",
+        "Location": "../pdfs/SAGE/S1237_SPI-M-O_Consensus_Statement.pdf",
+        "Index Title": "SPI-M-O: Consensus statement on COVID-19, 12 May 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988217/S1246_CO-CIN_Dynamic_Report_2nd_Wave.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-13-may-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 13 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1246_CO-CIN_Dynamic_Report_2nd_Wave.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 13 May 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988203/S1240_CMMID_COVID-19_Working_Group_Modelling_importations_and_local_transmission_of_B.1.617.2_in_the_UK__13_May_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/cmmid-covid-19-working-group-modelling-importations-and-local-transmission-of-b16172-in-the-uk-12-may-2021",
+        "Title": "CMMID COVID-19 Working Group: Modelling importations and local transmission of B.1.617.2 in the UK, 12 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1240_CMMID_COVID-19_Working_Group_Modelling_importations_and_local_transmission_of_B.1.617.2_in_the_UK__13_May_2021.pdf",
+        "Index Title": "CMMID COVID-19 Working Group: Modelling importations and local transmission of B.1.617.2 in the UK, 12 May 2021",
+        "Origin": "CMMID COVID-19 Working Group",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/988205/S1239_Joint_UNIversities_Pandemic_and_Epidemiological_Research.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/juniper-potential-community-transmission-of-b16172-inferred-by-s-gene-positivity-briefing-note-11-may-2021",
+        "Title": "JUNIPER: Potential community transmission of B.1.617.2 inferred by S-gene positivity - briefing note, 11 May 2021",
+        "Published": "2021-05-21",
+        "Location": "../pdfs/SAGE/S1239_Joint_UNIversities_Pandemic_and_Epidemiological_Research.pdf",
+        "Index Title": "JUNIPER: Potential community transmission of B.1.617.2 inferred by S-gene positivity - briefing note, 11 May 2021",
+        "Origin": "JUNIPER",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/989812/S1238_SPI-M-O_MediumTermProjections.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-12-may-2021",
+        "Title": "SPI-M-O: Medium-term projections, 12 May 2021",
+        "Published": "2021-05-28",
+        "Location": "../pdfs/SAGE/S1238_SPI-M-O_MediumTermProjections.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 12 May 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990149/S1247_Relative_importance_of_different_settings_for_COVID-19_acquisition_paper.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ucl-relative-importance-of-different-settings-for-covid-19-transmission-13-may-2021",
+        "Title": "UCL: Relative importance of different settings for COVID-19 transmission, 13 May 2021",
+        "Published": "2021-05-28",
+        "Location": "../pdfs/SAGE/S1247_Relative_importance_of_different_settings_for_COVID-19_acquisition_paper.pdf",
+        "Index Title": "UCL: Relative importance of different settings for COVID-19 transmission, 13 May 2021",
+        "Origin": "UCL",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
     }
 ]
