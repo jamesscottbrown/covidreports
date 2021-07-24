@@ -8909,5 +8909,49 @@
         "Origin": "NERVTAG Meeting",
         "Meeting": "NERVTAG Meeting 46",
         "Meeting Date": ""
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1002729/S1111_SPI-B_P_S_Lifting_Restrictions.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-policing-and-security-subgroup-lifting-restrictions-security-and-policing-implications-10-february-2021",
+        "Title": "SPI-B Policing and Security subgroup: Lifting restrictions \u2013 security and policing implications, 10 February 2021",
+        "Published": "2021-07-16",
+        "Location": "../pdfs/SAGE/S1111_SPI-B_P_S_Lifting_Restrictions.pdf",
+        "Index Title": "SPI-B Policing and Security subgroup: Lifting restrictions \u2013 security and policing implications, 10 February 2021",
+        "Origin": "SPI-B Policing and Security subgroup",
+        "Meeting": "SAGE 80",
+        "Meeting Date": "2021-02-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1002822/S1314_PHE_Review_of_longitudinal_studies_on_immunity.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-review-of-longitudinal-studies-on-immunity-from-sars-cov-2-7-july-2021",
+        "Title": "PHE: Review of longitudinal studies on immunity from SARS-CoV-2, 7 July 2021",
+        "Published": "2021-07-16",
+        "Location": "../pdfs/SAGE/S1314_PHE_Review_of_longitudinal_studies_on_immunity.pdf",
+        "Index Title": "PHE: Review of longitudinal studies on immunity from SARS-CoV-2, 7 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1002803/S1306_SPI-M-O_Consensus_Statement.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-7-july-2021",
+        "Title": "SPI-M-O: Consensus statement on COVID-19, 7 July 2021",
+        "Published": "2021-07-16",
+        "Location": "../pdfs/SAGE/S1306_SPI-M-O_Consensus_Statement.pdf",
+        "Index Title": "SPI-M-O: Consensus statement on COVID-19, 7 July 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1002814/S1307_SPI-M-O_MediumTermProjections.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-7-july-2021",
+        "Title": "SPI-M-O: Medium-term projections, 7 July 2021",
+        "Published": "2021-07-16",
+        "Location": "../pdfs/SAGE/S1307_SPI-M-O_MediumTermProjections.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 7 July 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
     }
 ]
