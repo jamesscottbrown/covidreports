@@ -8887,7 +8887,6 @@
         "Meeting": "NERVTAG Minutes_ NERVTAG SPI-M meeting_21Dec2020_FINAL",
         "Meeting Date": ""
     },
-
     {
         "PDF URL": "",
         "Page URL": "https://app.box.com/s/3lkcbxepqixkg4mv640dpvvg978ixjtf/folder/103551854721",
@@ -8953,5 +8952,16 @@
         "Origin": "SPI-M-O",
         "Meeting": "SAGE 93",
         "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005176/S1294_PHE_variant_grid.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-sars-cov-2-variant-in-risk-assessment-variants-detected-in-the-uk-7-june-2021",
+        "Title": "PHE: SARS-COV-2 variant in risk assessment \u2013 variants detected in the UK, 7 June 2021",
+        "Published": "2021-07-23",
+        "Location": "../pdfs/SAGE/S1294_PHE_variant_grid.pdf",
+        "Index Title": "PHE: SARS-COV-2 variant in risk assessment \u2013 variants detected in the UK, 7 June 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 92",
+        "Meeting Date": "2021-06-09"
     }
 ]
