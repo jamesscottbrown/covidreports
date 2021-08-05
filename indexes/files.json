@@ -8996,5 +8996,104 @@
         "Origin": "NERVTAG Meeting",
         "Meeting": "NERVTAG Meeting 55",
         "Meeting Date": ""
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007511/S1327_Short_Long_COVID_report.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ons-short-report-on-long-covid-22-july-2021",
+        "Title": "ONS: Short report on Long COVID, 22 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1327_Short_Long_COVID_report.pdf",
+        "Index Title": "ONS: Short report on Long COVID, 22 July 2021",
+        "Origin": "ONS",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007444/S1341_CO-CIN_Dynamic_Report.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-21-july-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 21 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1341_CO-CIN_Dynamic_Report.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 21 July 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007514/S1336_International_Vaccination_Potential_impact_on_viral_evolution_and_UK_public_health.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/international-vaccination-potential-impact-on-viral-evolution-and-uk-public-health-21-july-2021",
+        "Title": "International vaccination: Potential impact on viral evolution and UK public health, 21 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1336_International_Vaccination_Potential_impact_on_viral_evolution_and_UK_public_health.pdf",
+        "Index Title": "International vaccination: Potential impact on viral evolution and UK public health, 21 July 2021",
+        "Origin": "International vaccination",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007477/S1322_SPI-M-O_MediumTermProjections.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-21-july-2021",
+        "Title": "SPI-M-O: Medium-term projections, 21 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1322_SPI-M-O_MediumTermProjections.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 21 July 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007484/S1325_SPI-M-O_Concerns_for_the_next_few_months.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-statement-on-their-concerns-for-next-few-months-14-july-2021",
+        "Title": "SPI-M-O: Statement on their concerns for next few months, 14 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1325_SPI-M-O_Concerns_for_the_next_few_months.pdf",
+        "Index Title": "SPI-M-O: Statement on their concerns for next few months, 14 July 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007573/S1332_How_long_will_vaccines_continue_to_protect_against_COVID-19.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/how-long-will-vaccines-continue-to-protect-against-covid-19-30-july-2021",
+        "Title": "How long will vaccines continue to protect against COVID-19?, 30 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1332_How_long_will_vaccines_continue_to_protect_against_COVID-19.pdf",
+        "Index Title": "How long will vaccines continue to protect against COVID-19?, 30 July 2021",
+        "Origin": "",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007566/S1335_Long_term_evolution_of_SARS-CoV-2.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/long-term-evolution-of-sars-cov-2-26-july-2021",
+        "Title": "Long term evolution of SARS-CoV-2, 26 July 2021",
+        "Published": "2021-07-30",
+        "Location": "../pdfs/SAGE/S1335_Long_term_evolution_of_SARS-CoV-2.pdf",
+        "Index Title": "Long term evolution of SARS-CoV-2, 26 July 2021",
+        "Origin": "",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007607/RAEng-infection-resillient-environments.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/raeng-infection-resilient-environments-buildings-that-keep-us-healthy-and-safe-19-july-2021",
+        "Title": "RAENG: Infection Resilient Environments \u2013 Buildings that keep us healthy and safe, 19 July 2021",
+        "Published": "2021-07-19",
+        "Location": "../pdfs/SAGE/RAEng-infection-resillient-environments.pdf",
+        "Index Title": "RAEng: Infection Resilient Environments \u2013 Buildings that keep us healthy and safe, 19 July 2021",
+        "Origin": "RAEng",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1007597/ams-preparing-for-winter.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ams-covid-19-preparing-for-the-future-looking-ahead-to-winter-2021-2022-and-beyond-15-july-2021",
+        "Title": "AMS: COVID-19 preparing for the future \u2013 Looking ahead to winter 2021 2022 and beyond, 15 July 2021",
+        "Published": "2021-07-15",
+        "Location": "../pdfs/SAGE/ams-preparing-for-winter.pdf",
+        "Index Title": "AMS: COVID-19 preparing for the future \u2013 Looking ahead to winter 2021, 2022 and beyond, 15 July 2021",
+        "Origin": "AMS",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
     }
 ]
