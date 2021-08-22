@@ -1850,7 +1850,7 @@
     {
         "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/917029/SAGE27_2a._20200420_forecasts_SAGE_S0199_for_release_v2.pdf",
         "Page URL": "https://www.gov.uk/government/publications/spi-m-o-covid-19-short-term-pilot-forecasts-19-april-2020",
-        "Title": "SPI-M-O short-term forecasts\u200b (pilot) - 19 April 2020",
+        "Title": "SPI-M-O short-term forecasts (pilot) - 19 April 2020",
         "Published": "2020-09-11",
         "Location": "SAGE/SAGE27_2a._20200420_forecasts_SAGE_S0199_for_release_v2.pdf",
         "Index Title": "SPI-M-O: COVID-19 short-term pilot forecasts, 19 April 2020",
@@ -3709,10 +3709,10 @@
     {
         "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/907584/s0642-phe-in-vivo-models-assess-co-infection-sage-48.pdf",
         "Page URL": "https://www.gov.uk/government/publications/phe-in-vivo-models-to-assess-co-infection-of-sars-cov-2-and-influenza-virus-21-july-2020",
-        "Title": "PHE: In-vivo models to assess co-infection of SARS-CoV-2 and Influenza virus\u200b - 21 July 2020",
+        "Title": "PHE: In-vivo models to assess co-infection of SARS-CoV-2 and Influenza virus - 21 July 2020",
         "Published": "2020-08-07",
         "Location": "SAGE/s0642-phe-in-vivo-models-assess-co-infection-sage-48.pdf",
-        "Index Title": "PHE: In-vivo models to assess co-infection of SARS-CoV-2 and Influenza virus\u200b, 21 July 2020",
+        "Index Title": "PHE: In-vivo models to assess co-infection of SARS-CoV-2 and Influenza virus, 21 July 2020",
         "Origin": "PHE",
         "Meeting": "SAGE 48",
         "Meeting Date": "2020-07-23"
@@ -3767,7 +3767,7 @@
         "Title": "Public health messaging for communities from different cultural backgrounds - 22 July 2020",
         "Published": "2020-09-04",
         "Location": "SAGE/s0649-public-health-messaging-bame-communities.pdf",
-        "Index Title": "SPI-B: Consensus\u00a0on\u00a0BAME communication\u200b, 22 July 2020",
+        "Index Title": "SPI-B: Consensus\u00a0on\u00a0BAME communication, 22 July 2020",
         "Origin": "SPI-B",
         "Meeting": "SAGE 48",
         "Meeting Date": "2020-07-23"
@@ -4347,10 +4347,10 @@
     {
         "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/925133/S0759_SPI-B__The_impact_of_financial_and_other_targeted_support_on_rates_of_self-isolation_or_quarantine_.pdf",
         "Page URL": "https://www.gov.uk/government/publications/spi-b-impact-of-financial-and-other-targeted-support-on-rates-of-self-isolation-or-quarantine-16-september-2020",
-        "Title": "The impact of financial and other targeted support on rates of self-isolation or quarantine\u200b - 16 September 2020",
+        "Title": "The impact of financial and other targeted support on rates of self-isolation or quarantine - 16 September 2020",
         "Published": "2020-10-09",
         "Location": "SAGE/S0759_SPI-B__The_impact_of_financial_and_other_targeted_support_on_rates_of_self-isolation_or_quarantine_.pdf",
-        "Index Title": "SPI-B: Impact of financial and other targeted support on rates of self-isolation or quarantine\u200b, 16 September 2020",
+        "Index Title": "SPI-B: Impact of financial and other targeted support on rates of self-isolation or quarantine, 16 September 2020",
         "Origin": "SPI-B",
         "Meeting": "SAGE 57",
         "Meeting Date": "2020-09-17"
@@ -4471,7 +4471,7 @@
         "Title": "Evidence summary of impacts of public health communication for minority ethnic groups - 23 September 2020",
         "Published": "2020-10-23",
         "Location": "SAGE/S0779_Evidence_summary_of_impacts_of_public_health_communication_for_minority_ethnic_groups.pdf",
-        "Index Title": "\u200bEvidence summary of impacts to date of public health communications to minority ethnic groups and related challenges\u200b, 23 September 2020",
+        "Index Title": "Evidence summary of impacts to date of public health communications to minority ethnic groups and related challenges, 23 September 2020",
         "Origin": "Ethnicity subgroup of SAGE",
         "Meeting": "SAGE 59",
         "Meeting Date": "2020-09-24"
@@ -4534,10 +4534,10 @@
     {
         "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/926982/S0791_Briefing_on_progress_with_human_genomics_in_COVID-19_.pdf",
         "Page URL": "https://www.gov.uk/government/publications/genomicc-briefing-on-progress-with-human-genomics-in-covid-19-25-september-2020",
-        "Title": "Briefing on progress with human genomics in COVID-19\u200b - 25 September 2020",
+        "Title": "Briefing on progress with human genomics in COVID-19 - 25 September 2020",
         "Published": "2020-10-16",
         "Location": "SAGE/S0791_Briefing_on_progress_with_human_genomics_in_COVID-19_.pdf",
-        "Index Title": "GenOMICC: Briefing on progress with human genomics in COVID-19\u200b, 25 September 2020",
+        "Index Title": "GenOMICC: Briefing on progress with human genomics in COVID-19, 25 September 2020",
         "Origin": "GenOMICC",
         "Meeting": "SAGE 60",
         "Meeting Date": "2020-10-01"
@@ -9401,6 +9401,215 @@
         "Location": "../pdfs/SAGE/S1328_Vaccine_Effectiveness_table_.pdf",
         "Index Title": "VEEP: Vaccine effectiveness table, 16 July 2021",
         "Origin": "VEEP",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012426/S0200_LSHTM_Nosocomial_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/lshtm-estimates-of-nosocomial-and-community-transmission-of-covid-19-in-england-19-april-2020",
+        "Title": "LSHTM: Estimates of nosocomial and community transmission of COVID-19 in England, 19 April 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0200_LSHTM_Nosocomial_.pdf",
+        "Index Title": "LSHTM: Estimates of nosocomial and community transmission of COVID-19 in England, 19 April 2020",
+        "Origin": "LSHTM",
+        "Meeting": "SAGE 27",
+        "Meeting Date": "2020-04-21"
+    },
+    {
+        "PDF URL": "https://app.box.com/s/3lkcbxepqixkg4mv640dpvvg978ixjtf/file/834631661129",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-and-spi-m-extraordinary-meeting-on-contact-tracing-minutes-26-april-2020",
+        "Title": "NERVTAG and SPI-M: Extraordinary meeting on contact tracing - minutes, 26 April 2020",
+        "Published": "",
+        "Location": "../pdfs/SAGE/NERVTAG_Extraordinary_Meeting_Contact_Tracing_Minutes_26 April 2020_FINAL.pdf",
+        "Index Title": "NERVTAG and SPI-M: Extraordinary meeting on contact tracing - minutes, 26 April 2020",
+        "Origin": "NERVTAG and SPI-M",
+        "Meeting": "SAGE 32",
+        "Meeting Date": "2020-05-01"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012424/S0342_EMG_environmental_survival_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/emg-survival-of-sars-cov-2-in-the-environment-11-may-2020",
+        "Title": "EMG: Survival of SARS-CoV-2 in the environment, 11 May 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0342_EMG_environmental_survival_.pdf",
+        "Index Title": "EMG: Survival of SARS-CoV-2 in the environment, 11 May 2020",
+        "Origin": "EMG",
+        "Meeting": "SAGE 35",
+        "Meeting Date": "2020-05-12"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012484/HOCWG_SAGE_briefing_13_May_20_S0364.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/hocwg-hospital-onset-covid-19-infection-update-for-sage-13-may-2020",
+        "Title": "HOCWG: Hospital-onset COVID-19 infection - update for SAGE, 13 May 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/HOCWG_SAGE_briefing_13_May_20_S0364.pdf",
+        "Index Title": "HOCWG: Hospital-onset COVID-19 infection - update for SAGE, 13 May 2020",
+        "Origin": "HOCWG",
+        "Meeting": "SAGE 36",
+        "Meeting Date": "2020-05-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012373/S0585_Carehome_Supplement_Investigation_of_SARS-CoV-2_outbreaks.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-outbreaks-in-6-care-homes-in-london-april-2020-2-july-2020",
+        "Title": "PHE: Investigation of SARS-CoV-2 outbreaks in 6 care homes in London (April 2020), 2 July 2020",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S0585_Carehome_Supplement_Investigation_of_SARS-CoV-2_outbreaks.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 outbreaks in 6 care homes in London (April 2020), 2 July 2020",
+        "Origin": "PHE",
+        "Meeting": "SAGE 45",
+        "Meeting Date": "2020-07-02"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012376/S0591_Enhanced_Outbreak_Investigations.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-enhanced-outbreak-investigations-london-care-homes-april-2020-2-july-2020",
+        "Title": "PHE: Enhanced outbreak investigations, London care homes (April 2020), 2 July 2020",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S0591_Enhanced_Outbreak_Investigations.pdf",
+        "Index Title": "PHE: Enhanced outbreak investigations, London care homes (April 2020), 2 July 2020",
+        "Origin": "PHE",
+        "Meeting": "SAGE 45",
+        "Meeting Date": "2020-07-02"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012378/S0613_Easter_6_Care_Home_Investigations_Part_2.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-easter-6-care-home-investigations-part-2-serology-9-july-2020",
+        "Title": "PHE: Easter 6 Care Home Investigations: Part 2 - Serology, 9 July 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0613_Easter_6_Care_Home_Investigations_Part_2.pdf",
+        "Index Title": "PHE: Easter 6 care home investigations: part 2 - serology, 9 July 2020",
+        "Origin": "PHE",
+        "Meeting": "SAGE 46",
+        "Meeting Date": "2020-07-09"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012383/S0648_Slides_on_Leicester_for_SAGE.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dhsc-leicester-covid-19-infection-clusters-slides-23-july-2020",
+        "Title": "DHSC: Leicester COVID-19 infection clusters - slides, 23 July 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0648_Slides_on_Leicester_for_SAGE.pdf",
+        "Index Title": "DHSC: Leicester COVID-19 infection clusters - slides, 23 July 2020",
+        "Origin": "DHSC",
+        "Meeting": "SAGE 48",
+        "Meeting Date": "2020-07-23"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012331/S0661_SPI-B_-_Local_Restrictions_and_Public_Disorder.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-policing-and-security-sub-group-possible-consequences-of-intervention-in-localities-formerly-localised-lockdowns-for-public-disorder-30-ju",
+        "Title": "SPI-B Policing and Security Sub-Group: Possible consequences of intervention in localities (formerly 'localised lockdowns') for public disorder, 30 July 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0661_SPI-B_-_Local_Restrictions_and_Public_Disorder.pdf",
+        "Index Title": "SPI-B Policing and Security Sub-Group: Possible consequences of intervention in localities (formerly 'localised lockdowns') for public disorder, 30 July 2020",
+        "Origin": "SPI-B Policing and Security Sub-Group",
+        "Meeting": "SAGE 49",
+        "Meeting Date": "2020-07-30"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012505/s0713-self-reported-adherence-self-isolation.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-self-reported-adherence-to-social-distancing-measures-7-april-2020",
+        "Title": "SPI-B: Self-reported adherence to social distancing measures, 7 April 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/s0713-self-reported-adherence-self-isolation.pdf",
+        "Index Title": "SPI-B: Self-reported adherence to social distancing measures, 7 April 2020",
+        "Origin": "SPI-B",
+        "Meeting": "SAGE 53",
+        "Meeting Date": "2020-08-27"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012400/S0781_SPI-B_PS_Security_and_Policing_Challenges_-_Horizon_Scanning.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-policing-and-security-sub-group-covid-19-security-and-policing-challenges-21-september-2020",
+        "Title": "SPI-B Policing and Security Sub-Group: COVID-19 security and policing challenges, 21 September 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0781_SPI-B_PS_Security_and_Policing_Challenges_-_Horizon_Scanning.pdf",
+        "Index Title": "SPI-B Policing and Security Sub-Group: COVID-19 security and policing challenges, 21 September 2020",
+        "Origin": "SPI-B Policing and Security Sub-Group",
+        "Meeting": "SAGE 59",
+        "Meeting Date": "2020-09-24"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012407/S0875_Social_Care_Working_Group_Consensus_statement_on_visitor_policies.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/scwg-consensus-statement-on-family-or-friend-visitor-policy-into-care-home-settings-2-november-2020",
+        "Title": "SCWG: Consensus statement on family or friend visitor policy into care home settings, 2 November 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0875_Social_Care_Working_Group_Consensus_statement_on_visitor_policies.pdf",
+        "Index Title": "SCWG: Consensus statement on family or friend visitor policy into care home settings, 2 November 2020",
+        "Origin": "SCWG",
+        "Meeting": "SAGE 66",
+        "Meeting Date": "2020-11-05"
+    },
+    {
+        "PDF URL": "https://www.gov.uk/government/publications/hairs-risk-assessment-on-sars-cov-2-in-mustelinae-population",
+        "Page URL": "https://www.gov.uk/government/publications/hairs-sars-cov-2-in-mustelinae-population-risk-assessment-10-november-2020",
+        "Title": "HAIRS risk assessment: SARS-CoV-2 in Mustelinae population, 10 November 2020",
+        "Published": "2020-11-11",
+        "Location": "../pdfs/SAGE/20201110_EI_RA_SARS-CoV02_Mustelinae.pdf",
+        "Index Title": "HAIRS: SARS-CoV-2 in Mustelinae population - risk assessment, 10 November 2020",
+        "Origin": "HAIRS",
+        "Meeting": "SAGE 67",
+        "Meeting Date": "2020-11-12"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012410/S0884_PHE_Risk_Assessment_for_Cluster_5_SARS-CoV-2_mink_variant_virus.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/hairs-cluster-5-mink-variant-sars-cov-2-interim-risk-assessment-10-november-2020",
+        "Title": "HAIRS: Cluster 5 mink-variant SARS-CoV-2 - interim risk assessment, 10 November 2020",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S0884_PHE_Risk_Assessment_for_Cluster_5_SARS-CoV-2_mink_variant_virus.pdf",
+        "Index Title": "HAIRS: Cluster 5 mink-variant SARS-CoV-2 - interim risk assessment, 10 November 2020",
+        "Origin": "HAIRS",
+        "Meeting": "SAGE 67",
+        "Meeting Date": "2020-11-12"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1008199/S1029-EMG-face-coverings-distancing-13-jan.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/emg-application-of-physical-distancing-and-fabric-face-coverings-in-mitigating-the-b117-variant-sars-cov-2-virus-in-public-workplace-and-community",
+        "Title": "EMG: Application of physical distancing and fabric face coverings in mitigating the B117 variant SARS-CoV-2 virus in public, workplace and community - 13 January 2021",
+        "Published": "2021-01-29",
+        "Location": "../pdfs/SAGE/S1029-EMG-face-coverings-distancing-13-jan.pdf",
+        "Index Title": "EMG: Application of physical distancing and fabric face coverings in mitigating the B117 variant SARS-CoV-2 virus in public, workplace and community, 13 January 2021",
+        "Origin": "EMG",
+        "Meeting": "SAGE 76",
+        "Meeting Date": "2021-01-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012413/S1048_SPI-B_-_Behavioural_aspects_of_international_importation.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-policing-and-security-sub-group-behavioural-aspects-of-international-importation-20-january-2021",
+        "Title": "SPI-B Policing and Security Sub-Group: Behavioural aspects of international importation, 20 January 2021",
+        "Published": "2021-08-20",
+        "Location": "../pdfs/SAGE/S1048_SPI-B_-_Behavioural_aspects_of_international_importation.pdf",
+        "Index Title": "SPI-B Policing and Security Sub-Group: Behavioural aspects of international importation, 20 January 2021",
+        "Origin": "SPI-B Policing and Security Sub-Group",
+        "Meeting": "SAGE 77",
+        "Meeting Date": "2021-01-21"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012593/S1158_comparative_performance_of_sars_cov-2-lateral-flow-antigen-tests-demonstrates-their-utility-for-high-sensitivity-detection-of-infectious-virus-in-.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/comparative-performance-of-sars-cov-2-lateral-flow-antigen-tests-demonstrates-their-utility-for-high-sensitivity-detection-of-infectious-virus-in-clin",
+        "Title": "Comparative performance of SARS CoV-2 lateral flow antigen tests demonstrates their utility for high sensitivity detection of infectious virus in clinical specimens, 11 March 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1158_comparative_performance_of_sars_cov-2-lateral-flow-antigen-tests-demonstrates-their-utility-for-high-sensitivity-detection-of-infectious-virus-in-.pdf",
+        "Index Title": "Comparative performance of SARS CoV-2 lateral flow antigen tests demonstrates their utility for high sensitivity detection of infectious virus in clinical specimens, 11 March 2021",
+        "Origin": "",
+        "Meeting": "SAGE 83",
+        "Meeting Date": "2021-03-11"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012333/S1324_ONS_Symptoms_in_positives_and_negatives_over_time.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ons-impact-of-delta-and-calendar-time-on-symptoms-reported-by-individuals-testing-swab-positive-preliminary-analysis-of-data-to-12-july-2021-22",
+        "Title": "ONS: Impact of Delta and calendar time on symptoms reported by individuals testing swab positive: preliminary analysis of data to 12 July 2021, 22 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1324_ONS_Symptoms_in_positives_and_negatives_over_time.pdf",
+        "Index Title": "ONS: Impact of Delta and calendar time on symptoms reported by individuals testing swab positive - preliminary analysis of data (to 12 July 2021), 22 July 2021",
+        "Origin": "ONS",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1012336/S1330_ONS_Vaccine_effectiveness_and_breakthrough.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ons-impact-of-delta-and-calendar-time-on-vaccine-effectiveness-against-new-sars-cov-2-infection-and-ctviral-burden-in-infections-post-vaccination",
+        "Title": "ONS: Impact of Delta and calendar time on vaccine effectiveness against new SARS-CoV-2 infection and Ct/viral burden in infections post-vaccination - preliminary analysis on data (to 12 July 2021), 22 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1330_ONS_Vaccine_effectiveness_and_breakthrough.pdf",
+        "Index Title": "ONS: Impact of Delta and calendar time on vaccine effectiveness against new SARS-CoV-2 infection and Ct/viral burden in infections post-vaccination - preliminary analysis on data (to 12 July 2021), 22 July 2021",
+        "Origin": "ONS",
         "Meeting": "SAGE 94",
         "Meeting Date": "2021-07-22"
     }
