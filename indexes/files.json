@@ -9723,7 +9723,6 @@
         "Meeting": "SAGE 45",
         "Meeting Date": "2020-07-02"
     },
-
     {
         "PDF URL": "https://www.hdruk.ac.uk/wp-content/uploads/2020/08/200804-Health-Data-Research-UK-COVID-19-fortnightly-update-paper-final.pdf",
         "Page URL": "https://www.gov.uk/government/publications/hdr-uk-covid-19-health-data-research-weekly-update-4-august-2020",
@@ -10018,6 +10017,17 @@
         "Location": "../pdfs/SAGE/S1374_Supplementary_Information_-_Comparison_of_children_and_young_people_admitted_with_SARS-CoV-2.pdf",
         "Index Title": "ISARIC: Supplementary Information - comparison of children and young people admitted with SARS-CoV-2 across the UK in the first and second pandemic waves, 9 September 2021",
         "Origin": "ISARIC",
+        "Meeting": "SAGE 95",
+        "Meeting Date": "2021-09-09"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1019835/S1375_PHE_variant_grid_v1.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-sars-cov-2-variants-in-risk-assessment-grid-8-september-2021",
+        "Title": "PHE: SARS-COV-2 Variants in risk assessment grid, 8 September 2021",
+        "Published": "2021-09-24",
+        "Location": "../pdfs/SAGE/S1375_PHE_variant_grid_v1.pdf",
+        "Index Title": "PHE: SARS-COV-2 Variants in risk assessment grid, 8 September 2021",
+        "Origin": "PHE",
         "Meeting": "SAGE 95",
         "Meeting Date": "2021-09-09"
     }
