@@ -10030,5 +10030,159 @@
         "Origin": "PHE",
         "Meeting": "SAGE 95",
         "Meeting Date": "2021-09-09"
+    },
+        {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908434/Disparities_in_the_risk_and_outcomes_of_COVID_August_2020_update.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-covid-19-review-of-disparities-in-risks-and-outcomes-4-june-2020",
+        "Title": "PHE: COVID-19: review of disparities in risks and outcomes, 4 June 2020",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Disparities_in_the_risk_and_outcomes_of_COVID_August_2020_update.pdf",
+        "Index Title": "PHE: COVID-19 - review of disparities in risks and outcomes, 4 June 2020",
+        "Origin": "PHE",
+        "Meeting": "SAGE 40",
+        "Meeting Date": "2020-06-04"
+    },
+    {
+        "PDF URL": "https://gov.wales/sites/default/files/publications/2020-08/technical-advisory-group-consensus-statement-on-recommended-testing-criteria-for-discharge-of-asymptomatic-patients-to-care-homes.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/welsh-government-tag-testing-criteria-for-discharging-asymptomatic-patients-to-care-homes-11-august-2020",
+        "Title": "Welsh Government TAG: Testing criteria for discharging asymptomatic patients to care homes, 11 August 2020",
+        "Published": "",
+        "Location": "../pdfs/SAGE/technical-advisory-group-consensus-statement-on-recommended-testing-criteria-for-discharge-of-asymptomatic-patients-to-care-homes.pdf",
+        "Index Title": "Welsh Government TAG: Testing criteria for discharging asymptomatic patients to care homes, 11 August 2020",
+        "Origin": "Welsh Government TAG",
+        "Meeting": "SAGE 50",
+        "Meeting Date": "2020-08-06"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/986316/Variants_of_Concern_Variant_Data_Update_20210512.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/investigation-of-sars-cov-2-variants-of-concern-routine-variant-data-update",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: routine variant data update",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Variants_of_Concern_Variant_Data_Update_20210512.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern: routine variant data update, 13 May 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 89",
+        "Meeting Date": "2021-05-13"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/992982/27_May_2021_Risk_assessment_for_SARS-CoV-2_variant_VOC-21APR-02__B.1.617.2_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-delta-27-may-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: variant risk assessments for SARS-CoV-2 variant: Delta, 27 May 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/27_May_2021_Risk_assessment_for_SARS-CoV-2_variant_VOC-21APR-02__B.1.617.2_.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern: variant risk assessments for SARS-CoV-2 variant: Delta, 27 May 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 90",
+        "Meeting Date": "2021-05-27"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/990108/Variants_of_Concern_Variant_Data_Update_3.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-routine-variant-data-update-england-version-3-27-may-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: routine variant data update, England Version 3, 27 May 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Variants_of_Concern_Variant_Data_Update_3.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern: routine variant data update, England Version 3, 27 May 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 90",
+        "Meeting Date": "2021-05-27"
+    },
+    {
+        "PDF URL": "https://www.gov.uk/government/consultations/making-vaccination-a-condition-of-deployment-in-older-adult-care-homes/social-care-working-group-consensus-statement-march-2021",
+        "Page URL": "https://www.gov.uk/government/publications/scwg-estimating-the-minimum-level-of-vaccine-coverage-in-care-home-settings-march-2021",
+        "Title": "SCWG: Estimating the minimum level of vaccine coverage in care home settings, March 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Social_Care_Working_Group_consensus_statement_March_2021.pdf",
+        "Index Title": "SCWG: Estimating the minimum level of vaccine coverage in care home settings, March 2021",
+        "Origin": "SCWG",
+        "Meeting": "SAGE 90",
+        "Meeting Date": "2021-05-27"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/991135/3_June_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-delta-3-june-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: variant risk assessments for SARS-CoV-2 variant: Delta, 3  June 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/3_June_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Delta, 3  June 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 91",
+        "Meeting Date": "2021-06-03"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000661/8_July_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA_02.00-1.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-delta-8-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: variant risk assessments for SARS-CoV-2 variant: Delta, 8 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/8_July_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA_02.00-1.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Delta, 8 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000662/8_July_2021_Risk_assessment_for_SARS-CoV-2_variant_LAMBDA_01.00-1.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-lambda-8-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern: variant risk assessments for SARS-CoV-2 variant: Lambda, 8 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/8_July_2021_Risk_assessment_for_SARS-CoV-2_variant_LAMBDA_01.00-1.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Lambda, 8 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1000523/Variants_of_Concern_Variant_Data_Update_8.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-routine-variant-data-update-england-version-8-7-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern - routine variant data update, England, version 8, 7 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Variants_of_Concern_Variant_Data_Update_8.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - routine variant data update, England, version 8, 7 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 93",
+        "Meeting Date": "2021-07-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005395/23_July_2021_Risk_assessment_for_SARS-CoV-2_variant_Delta.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-delta-23-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Delta, 23 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/23_July_2021_Risk_assessment_for_SARS-CoV-2_variant_Delta.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Delta, 23 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005285/23_July_2021_Risk_assessment_for_SARS-CoV-2_variant_Beta.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-variant-risk-assessments-for-sars-cov-2-variant-beta-23-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Beta, 23 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/23_July_2021_Risk_assessment_for_SARS-CoV-2_variant_Beta.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - variant risk assessments for SARS-CoV-2 variant, Beta, 23 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1005322/Variants_of_Concern_Variant_Data_Update_9_Approved.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/phe-investigation-of-sars-cov-2-variants-of-concern-routine-variant-data-update-england-version-9-23-july-2021",
+        "Title": "PHE: Investigation of SARS-CoV-2 variants of concern - routine variant data update, England, version 9, 23 July 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Variants_of_Concern_Variant_Data_Update_9_Approved.pdf",
+        "Index Title": "PHE: Investigation of SARS-CoV-2 variants of concern - routine variant data update, England, version 9, 23 July 2021",
+        "Origin": "PHE",
+        "Meeting": "SAGE 94",
+        "Meeting Date": "2021-07-22"
+    },
+    {
+        "PDF URL": "https://www.hdruk.ac.uk/wp-content/uploads/2021/09/2021-09-07-Health-Data-Research-UK-SAGE-report.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/hdr-uk-covid-19-health-data-research-weekly-update-7-september-2021",
+        "Title": "HDR UK: COVID-19 health data research - weekly update, 7 September 2021",
+        "Published": "2021-09-17",
+        "Location": "../pdfs/SAGE/2021-09-07-Health-Data-Research-UK-SAGE-report.pdf",
+        "Index Title": "HDR UK: COVID-19 health data research - weekly update, 7 September 2021",
+        "Origin": "HDR UK",
+        "Meeting": "SAGE 95",
+        "Meeting Date": "2021-09-09"
     }
 ]
