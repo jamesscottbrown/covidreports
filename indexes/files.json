@@ -10031,7 +10031,7 @@
         "Meeting": "SAGE 95",
         "Meeting Date": "2021-09-09"
     },
-        {
+    {
         "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/908434/Disparities_in_the_risk_and_outcomes_of_COVID_August_2020_update.pdf",
         "Page URL": "https://www.gov.uk/government/publications/phe-covid-19-review-of-disparities-in-risks-and-outcomes-4-june-2020",
         "Title": "PHE: COVID-19: review of disparities in risks and outcomes, 4 June 2020",
@@ -10184,5 +10184,247 @@
         "Origin": "HDR UK",
         "Meeting": "SAGE 95",
         "Meeting Date": "2021-09-09"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027514/S1381_SAGE_96_minutes.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-96-minutes-coronavirus-covid-19-response-14-october-2021",
+        "Title": "SAGE 96 minutes: Coronavirus (COVID-19) response, 14 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1381_SAGE_96_minutes.pdf",
+        "Index Title": "SAGE 96 minutes: Coronavirus (COVID-19) response, 14 October 2021",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027586/S1393_SPI-B_SPI-M_EMG_Considerations_for_potential_impact_of_Plan_B_measures_13_October_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-spi-m-and-emg-considerations-for-potential-impact-of-plan-b-measures-13-october-2021",
+        "Title": "SPI-B/SPI-M/EMG: Considerations for potential impact of Plan B measures, 13 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1393_SPI-B_SPI-M_EMG_Considerations_for_potential_impact_of_Plan_B_measures_13_October_2021.pdf",
+        "Index Title": "SPI-B, SPI-M and EMG: Considerations for potential impact of Plan B measures, 13 October 2021",
+        "Origin": "SPI-B, SPI-M and EMG",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027840/S1394_SPI-B_Behavioural_considerations_for_maintaining_or_reintroducing_behavioural_interventions_and_introducing_new_measures_in_Autumn_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-b-behavioural-considerations-for-maintaining-or-reintroducing-behavioural-interventions-and-introducing-new-measures-in-autumn-2021-14-october-2",
+        "Title": "SPI-B: Behavioural considerations for maintaining or reintroducing behavioural interventions and introducing new measures in Autumn 2021, 14 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1394_SPI-B_Behavioural_considerations_for_maintaining_or_reintroducing_behavioural_interventions_and_introducing_new_measures_in_Autumn_2021.pdf",
+        "Index Title": "SPI-B: Behavioural considerations for maintaining or reintroducing behavioural interventions and introducing new measures in autumn 2021, 14 October 2021",
+        "Origin": "SPI-B",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1036475/S1395_EMG-Nervtag_Update_on_Transmission_and_Environmental_and_Behavioural_Mitigation_Strategies__including_in_the_context_of_Delta.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/emg-and-nervtag-update-on-transmission-and-environmental-and-behavioural-mitigation-strategies-including-in-the-context-of-delta-13-october-2021",
+        "Title": "EMG and NERVTAG: Update on transmission and environmental and behavioural mitigation strategies, including in the context of Delta, 13 October 2021 (Updated 26 November 2021)",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1395_EMG-Nervtag_Update_on_Transmission_and_Environmental_and_Behavioural_Mitigation_Strategies__including_in_the_context_of_Delta.pdf",
+        "Index Title": "EMG and NERVTAG: Update on transmission and environmental and behavioural mitigation strategies, including in the context of Delta, 13 October 2021",
+        "Origin": "EMG and NERVTAG",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027606/S1396_NERVTAG_Respiratory_infections__their_interactions_with_SARS-_CoV-2_and_implications_for_winter_2021_2022__20_September_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-respiratory-infections-their-interactions-with-sars-cov-2-and-implications-for-winter-2021-to-2022-20-september-2021",
+        "Title": "NERVTAG: Respiratory infections, their interactions with SARS-CoV-2 and implications for winter 2021 to 2022, 20 September 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1396_NERVTAG_Respiratory_infections__their_interactions_with_SARS-_CoV-2_and_implications_for_winter_2021_2022__20_September_2021.pdf",
+        "Index Title": "NERVTAG: Respiratory infections, their interactions with SARS-CoV-2 and implications for winter 2021 to 2022, 20 September 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027796/S1399_CO-CIN_Dynamic_Report_3rd_Wave_from_1st_May_as_of_13th_Oct_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-13-october-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 13 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1399_CO-CIN_Dynamic_Report_3rd_Wave_from_1st_May_as_of_13th_Oct_2021.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 13 October 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1028075/emrg-consensus-statement-6-October-2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/emrg-consensus-statement-on-covid-19-6-october-2021",
+        "Title": "EMRG: Consensus statement on COVID-19, 6 October 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/emrg-consensus-statement-6-October-2021.pdf",
+        "Index Title": "EMRG: Consensus statement on COVID-19, 6 October 2021",
+        "Origin": "EMRG",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027643/S1401_University_of_Oxford_and_Nuffield_College_The_impact_of_mandatory_COVID-19_certificates_on_vaccine_uptake_Synthetic_Control_Modelling_of_Six_Countries__14_October_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/university-of-oxford-and-nuffield-college-the-impact-of-mandatory-covid-19-certificates-on-vaccine-uptake-synthetic-control-modelling-of-6-countrie",
+        "Title": "University of Oxford and Nuffield College: The impact of mandatory COVID-19 certificates on vaccine uptake - synthetic control modelling of 6 countries, 14 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1401_University_of_Oxford_and_Nuffield_College_The_impact_of_mandatory_COVID-19_certificates_on_vaccine_uptake_Synthetic_Control_Modelling_of_Six_Countries__14_October_2021.pdf",
+        "Index Title": "University of Oxford and Nuffield College: The impact of mandatory COVID-19 certificates on vaccine uptake - synthetic control modelling of 6 countries, 14 October 2021",
+        "Origin": "University of Oxford and Nuffield College",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027649/S1402_Testing_when_symptomatic__and_staying_at_home_with_influenza-like_illness_during_autumn_and_winter_2021__30.09.2021_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/testing-when-symptomatic-and-staying-at-home-with-influenza-like-illness-during-autumn-and-winter-2021-30-september-2021",
+        "Title": "Testing when symptomatic, and staying at home with influenza-like illness, during autumn and winter 2021, 30 September 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1402_Testing_when_symptomatic__and_staying_at_home_with_influenza-like_illness_during_autumn_and_winter_2021__30.09.2021_.pdf",
+        "Index Title": "Testing when symptomatic, and staying at home with influenza-like illness, during autumn and winter 2021, 30 September 2021",
+        "Origin": "",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/articles/coronaviruscovid19infectionsurveytechnicalarticleimpactofvaccinationontestingpositiveintheuk/october2021/pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ons-coronavirus-covid-19-infection-survey-technical-article-impact-of-vaccination-on-testing-positive-in-the-uk-14-october-2021",
+        "Title": "ONS: Coronavirus (COVID-19) Infection Survey Technical Article: Impact of vaccination on testing positive in the UK, 14 October 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Coronavirus (COVID-19) Infection Survey Technical Article Impact of vaccination on testing positive in the UK October 2021.pdf",
+        "Index Title": "ONS: Coronavirus (COVID-19) Infection Survey Technical Article: Impact of vaccination on testing positive in the UK, 14 October 2021",
+        "Origin": "ONS",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027692/S1408_Comix_Report_Survey_Week_80.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/cmmid-social-contacts-in-the-uk-from-the-comix-social-contact-survey",
+        "Title": "CMMID: Social contacts in the UK from the CoMix social contact survey",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1408_Comix_Report_Survey_Week_80.pdf",
+        "Index Title": "CMMID: Social contacts in the UK from the CoMix social contact survey",
+        "Origin": "CMMID",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1025827/Technical_Briefing_25.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ukhsa-investigation-of-novel-sars-cov-2-variants-of-concern-england-technical-briefing-25-15-october-2021",
+        "Title": "UKHSA: Investigation of novel SARS-CoV-2 variants of concern (England) - Technical briefing 25, 15 October 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/Technical_Briefing_25.pdf",
+        "Index Title": "UKHSA: Investigation of novel SARS-CoV-2 variants of concern (England) - Technical briefing 25, 15 October 2021",
+        "Origin": "UKHSA",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1025832/variants-of-concern-variant-data-update-15-21-10-15.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/ukhsa-sars-cov-2-routine-variant-data-update-in-england-15-15-october-2021",
+        "Title": "UK HSA: SARS-CoV-2 routine variant data update in England 15, 15 October 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/variants-of-concern-variant-data-update-15-21-10-15.pdf",
+        "Index Title": "UKHSA: SARS-CoV-2 routine variant data update in England 15, 15 October 2021",
+        "Origin": "UKHSA",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027851/S1383_SPI-M-O_Summary_autumn_winter_scenarios.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-summary-of-modelling-for-scenarios-for-covid-19-autumn-and-winter-2021-to-2022-13-october-2021",
+        "Title": "SPI-M-O: Summary of modelling for scenarios for COVID-19 autumn and winter 2021 to 2022, 13 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1383_SPI-M-O_Summary_autumn_winter_scenarios.pdf",
+        "Index Title": "SPI-M-O: Summary of modelling for scenarios for COVID-19 autumn and winter 2021 to 2022, 13 October 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027907/S1384_Warwick_Autumn_and_Winter_scenarios.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/university-of-warwick-projections-of-sars-cov-2-transmission-and-covid-19-disease-until-june-2022-the-action-of-waning-efficacy-and-boosters-12-oc",
+        "Title": "University of Warwick: Projections of SARS-CoV-2 transmission and COVID-19 disease until June 2022 - the action of waning efficacy and boosters, 12 October 2021",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1384_Warwick_Autumn_and_Winter_scenarios.pdf",
+        "Index Title": "University of Warwick: Projections of SARS-CoV-2 transmission and COVID-19 disease until June 2022, 12 October 2021",
+        "Origin": "University of Warwick",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1030874/S1385_SAGE96_LSHTM_Autumn_and_Winter_scenarios.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/lshtm-autumn-and-winter-scenarios-2021-to-2022-13-october-2021",
+        "Title": "LSHTM: Autumn and winter scenarios 2021 to 2022, 13 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1385_SAGE96_LSHTM_Autumn_and_Winter_scenarios.pdf",
+        "Index Title": "LSHTM: autumn and winter scenarios 2021 to 2022, 13 October 2021",
+        "Origin": "LSHTM",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027920/S1386_SPI-M_potential_winter_trajectories_Imperial_College.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/imperial-college-london-autumn-and-winter-2021-to-2022-potential-covid-19-epidemic-trajectories-13-october-2021",
+        "Title": "Imperial College London autumn and winter 2021 to 2022 - potential COVID-19 epidemic trajectories - Part 1, 13 October 20212",
+        "Published": "",
+        "Location": "../pdfs/SAGE/S1386_SPI-M_potential_winter_trajectories_Imperial_College.pdf",
+        "Index Title": "Imperial College London: autumn and winter 2021 to 2022 - potential COVID-19 epidemic trajectories, 13 October 2021",
+        "Origin": "Imperial College London",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1027886/S1387_Bristol_Autumn_and_Winter_scenarios.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/university-of-bristol-trade-off-between-population-immunity-and-return-to-work-for-covid-19-control-autumn-and-winter-2021-scenarios-12-october-202",
+        "Title": "University of Bristol: Trade off between population immunity and return-to-work for COVID-19 control, Autumn and Winter 2021 Scenarios, 12 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1387_Bristol_Autumn_and_Winter_scenarios.pdf",
+        "Index Title": "University of Bristol: Trade off between population immunity and return-to-work for COVID-19 control, autumn and winter 2021 scenarios, 12 October 2021",
+        "Origin": "University of Bristol",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029670/S1389_SPI-M-O_Summary_reimposition.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-summary-of-modelling-considerations-for-the-reimposition-of-measures-13-october-2021",
+        "Title": "SPI-M-O: Summary of modelling considerations for the reimposition of measures, 13 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1389_SPI-M-O_Summary_reimposition.pdf",
+        "Index Title": "SPI-M-O: Summary of modelling considerations for the reimposition of measures, 13 October 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1030877/S1382_SPI-M-O_MediumTermProjections_SAGE.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-medium-term-projections-12-october-2021",
+        "Title": "SPI-M-O: Medium-Term Projections, 12 October 2021",
+        "Published": "2021-10-22",
+        "Location": "../pdfs/SAGE/S1382_SPI-M-O_MediumTermProjections_SAGE.pdf",
+        "Index Title": "SPI-M-O: Medium-term projections, 12 October 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029656/S1392_Juniper_Consortium_Control_Options_for_Mitigating_a_Rapid_Rise_in_Infection.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/juniper-control-options-for-mitigating-a-rapid-rise-in-infection-12-october-2021",
+        "Title": "JUNIPER: Control options for mitigating a rapid rise in infection, 12 October 2021",
+        "Published": "2021-10-29",
+        "Location": "../pdfs/SAGE/S1392_Juniper_Consortium_Control_Options_for_Mitigating_a_Rapid_Rise_in_Infection.pdf",
+        "Index Title": "JUNIPER: Control options for mitigating a rapid rise in infection, 12 October 2021",
+        "Origin": "JUNIPER",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1029794/S1411_VEEP_Vaccine_Effectiveness_Table_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/veep-vaccine-effectiveness-table-24-september-2021",
+        "Title": "VEEP: Vaccine effectiveness table, 24 September 2021",
+        "Published": "2021-10-29",
+        "Location": "../pdfs/SAGE/S1411_VEEP_Vaccine_Effectiveness_Table_.pdf",
+        "Index Title": "VEEP: Vaccine effectiveness table, 24 September 2021",
+        "Origin": "VEEP",
+        "Meeting": "SAGE 96",
+        "Meeting Date": "2021-10-14"
     }
 ]
