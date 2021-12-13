@@ -10426,5 +10426,38 @@
         "Origin": "VEEP",
         "Meeting": "SAGE 96",
         "Meeting Date": "2021-10-14"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1037831/SAGE_97_Minutes_29_November_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-97-minutes-coronavirus-covid-19-response-29-november-2021",
+        "Title": "SAGE 97 minutes: Coronavirus (COVID-19) response, 29 November 2021",
+        "Published": "2021-12-03",
+        "Location": "../pdfs/SAGE/SAGE_97_Minutes_29_November_2021.pdf",
+        "Index Title": "SAGE 97 minutes: Coronavirus (COVID-19) response, 29 November 2021",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 97",
+        "Meeting Date": "2021-11-29"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1038072/S1423_SPI-M-O_Consensus_Statement.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-24-november-2021",
+        "Title": "SPI-M-O: Consensus Statement, 24 November 2021",
+        "Published": "2021-12-03",
+        "Location": "../pdfs/SAGE/S1423_SPI-M-O_Consensus_Statement.pdf",
+        "Index Title": "SPI-M-O: Consensus statement on COVID-19, 24 November 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 97",
+        "Meeting Date": "2021-11-29"
+    },
+    {
+        "PDF URL": "https://app.box.com/s/3lkcbxepqixkg4mv640dpvvg978ixjtf/file/890120528845",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-brief-note-of-the-extraordinary-meeting-of-nervtag-subgroup-on-sars-cov-2-variant-b11529-25-november-2021",
+        "Title": "NERVTAG: Brief note of the extraordinary meeting of NERVTAG subgroup on SARS-CoV-2 variant B.1.1.529, 25 November 2021",
+        "Published": "2021-11-29",
+        "Location": "../pdfs/SAGE/NERVTAG note B.1.1.529 extraordinary meeting_20211126 _FINAL.pdf",
+        "Index Title": "NERVTAG: Brief note of the extraordinary meeting of NERVTAG subgroup on SARS-CoV-2 variant B.1.1.529, 25 November 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 97",
+        "Meeting Date": "2021-11-29"
     }
 ]
