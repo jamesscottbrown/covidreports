@@ -10459,5 +10459,49 @@
         "Origin": "NERVTAG",
         "Meeting": "SAGE 97",
         "Meeting Date": "2021-11-29"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039514/S1429_SAGE_98__minutes.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/sage-98-minutes-coronavirus-covid-19-response-7-december-2021",
+        "Title": "SAGE 98 minutes: Coronavirus (COVID-19) response, 7 December 2021",
+        "Published": "2021-12-08",
+        "Location": "../pdfs/SAGE/S1429_SAGE_98__minutes.pdf",
+        "Index Title": "SAGE 98 minutes: Coronavirus (COVID-19) response, 7 December 2021",
+        "Origin": "SAGE Minutes",
+        "Meeting": "SAGE 98",
+        "Meeting Date": "2021-12-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039515/S1427_SPI-M-O_Consensus_Statement_1_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/spi-m-o-consensus-statement-on-covid-19-7-december-2021",
+        "Title": "SPI-M-O: Consensus Statement on COVID-19, 7 December 2021",
+        "Published": "2021-12-08",
+        "Location": "../pdfs/SAGE/S1427_SPI-M-O_Consensus_Statement_1_.pdf",
+        "Index Title": "SPI-M-O: Consensus Statement on COVID-19, 7 December 2021",
+        "Origin": "SPI-M-O",
+        "Meeting": "SAGE 98",
+        "Meeting Date": "2021-12-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039516/S1430_NERVTAG_Antiviral_drug_resistance_and_use_of_Direct_Acting_Antiviral_Drugs_.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/nervtag-antiviral-drug-resistance-and-the-use-of-directly-acting-antiviral-drugs-daas-for-covid-19-8-december-2021",
+        "Title": "NERVTAG: Antiviral drug resistance and the use of directly acting antiviral drugs (DAAs) for COVID-19, 8 December 2021",
+        "Published": "2021-12-08",
+        "Location": "../pdfs/SAGE/S1430_NERVTAG_Antiviral_drug_resistance_and_use_of_Direct_Acting_Antiviral_Drugs_.pdf",
+        "Index Title": "NERVTAG: Antiviral drug resistance and the use of directly acting antiviral drugs (DAAs) for COVID-19, 8 December 2021",
+        "Origin": "NERVTAG",
+        "Meeting": "SAGE 98",
+        "Meeting Date": "2021-12-07"
+    },
+    {
+        "PDF URL": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1039915/S1432_Dynamic_CO-CIN_report_wave_3_as_of_6th_December_2021.pdf",
+        "Page URL": "https://www.gov.uk/government/publications/dynamic-co-cin-report-to-sage-and-nervtag-6-december-2021",
+        "Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 6 December 2021",
+        "Published": "2021-12-10",
+        "Location": "../pdfs/SAGE/S1432_Dynamic_CO-CIN_report_wave_3_as_of_6th_December_2021.pdf",
+        "Index Title": "Dynamic CO-CIN report to SAGE and NERVTAG, 6 December 2021",
+        "Origin": "Dynamic CO-CIN report",
+        "Meeting": "SAGE 98",
+        "Meeting Date": "2021-12-07"
     }
 ]
